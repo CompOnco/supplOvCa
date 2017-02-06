@@ -1,0 +1,11 @@
+Package: supplOvCa
+Type: Package
+Title: Parsing Supplementary files from ovarian cancer articles including PMID 2325762, 21720365
+Version: 0.1.0
+Author: Aedin Culhane, Azfar Basunia
+Maintainer: Aedin Culhane <aedin@jimmy.harvard.edu>
+Description: It extract ovarian cancer molecular subtype for TCGA and other ovarian cancer data from Verhaak et al., PMID 23257362.It also extracts BRCA1, BRCA2 germline and somatic mutation status for TCGA ovarian cancer from the TCGA consortium article PMID 21720365.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.0
